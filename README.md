@@ -1,5 +1,5 @@
 # RiskOfRain2
-Risk of Rain 2, Modded .dll file to unlock Bandit (HAN-D available but seriously under development) 
+Risk of Rain 2, Modded .dll file to unlock Shared Items
 
 Step 1. Locate the Assembly-CSharp.dll file usually C:\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed
 
